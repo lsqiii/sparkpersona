@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95ea377d-1f11-41ad-b0b0-473389ae6cd5" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="myanalyseview.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myanalyseview.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2838">
+              <caret line="194" column="51" lean-forward="false" selection-start-line="194" selection-start-column="51" selection-end-line="194" selection-end-column="51" />
+              <folding>
+                <element signature="e#32804#32840#0#HTML" expanded="true" />
+                <element signature="e#32886#32926#0#HTML" expanded="true" />
+                <element signature="e#33148#33190#0#HTML" expanded="true" />
+                <element signature="e#33213#33385#0#HTML" expanded="true" />
+                <element signature="e#33472#33539#0#HTML" expanded="true" />
+                <element signature="e#33716#33777#0#HTML" expanded="true" />
+                <element signature="e#33798#33850#0#HTML" expanded="true" />
+                <element signature="e#34585#34610#0#HTML" expanded="true" />
+                <element signature="e#34642#34685#0#HTML" expanded="true" />
+                <element signature="e#34702#34747#0#HTML" expanded="true" />
+                <element signature="e#35453#35496#0#HTML" expanded="true" />
+                <element signature="e#36300#36342#0#HTML" expanded="true" />
+                <element signature="e#36381#36417#0#HTML" expanded="true" />
+                <element signature="e#36478#36520#0#HTML" expanded="true" />
+                <element signature="e#36560#36596#0#HTML" expanded="true" />
+                <element signature="e#36699#36741#0#HTML" expanded="true" />
+                <element signature="e#36779#36815#0#HTML" expanded="true" />
+                <element signature="e#36872#36914#0#HTML" expanded="true" />
+                <element signature="e#36952#36988#0#HTML" expanded="true" />
+                <element signature="e#37055#37080#0#HTML" expanded="true" />
+                <element signature="e#37112#37154#0#HTML" expanded="true" />
+                <element signature="e#37171#37216#0#HTML" expanded="true" />
+                <element signature="e#37422#37464#0#HTML" expanded="true" />
+                <element signature="e#37500#37536#0#HTML" expanded="true" />
+                <element signature="e#37616#37659#0#HTML" expanded="true" />
+                <element signature="e#40286#40346#0#HTML" expanded="true" />
+                <element signature="e#40382#40418#0#HTML" expanded="true" />
+                <element signature="e#40473#40498#0#HTML" expanded="true" />
+                <element signature="e#40530#40573#0#HTML" expanded="true" />
+                <element signature="e#40590#40634#0#HTML" expanded="true" />
+                <element signature="e#42159#42201#0#HTML" expanded="true" />
+                <element signature="e#42235#42271#0#HTML" expanded="true" />
+                <element signature="e#42320#42362#0#HTML" expanded="true" />
+                <element signature="e#42396#42432#0#HTML" expanded="true" />
+                <element signature="e#42496#42556#0#HTML" expanded="true" />
+                <element signature="e#42734#42771#0#HTML" expanded="true" />
+                <marker date="1523901989000" expanded="true" signature="5421:5462" ph="SELECT round... ${COUNT_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="5526:5572" ph="SELECT round... ${COUNT_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="5629:5668" ph="SELECT round... ${COUNT_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="5729:5772" ph="SELECT round... ${COUNT_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="5831:5872" ph="SELECT round... ${COUNT_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="5933:5976" ph="SELECT round... ${COUNT_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="6034:6074" ph="SELECT round... ${COUNT_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="6131:6170" ph="SELECT round... ${COUNT_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="6226:6264" ph="SELECT round... ${COUNT_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="6323:6364" ph="SELECT round... ${COUNT_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="6427:6472" ph="SELECT round... ${COUNT_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="6525:6560" ph="SELECT round... ${COUNT_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="6621:6662" ph="SELECT round... ${COUNTD_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="6728:6774" ph="SELECT round... ${COUNTD_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="6833:6872" ph="SELECT round... ${COUNTD_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="6935:6978" ph="SELECT round... ${COUNTD_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="7039:7080" ph="SELECT round... ${COUNTD_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="7143:7186" ph="SELECT round... ${COUNTD_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="7246:7286" ph="SELECT round... ${COUNTD_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="7345:7384" ph="SELECT round... ${COUNTD_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="7442:7480" ph="SELECT round... ${COUNTD_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="7541:7582" ph="SELECT round... ${COUNTD_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="7647:7692" ph="SELECT round... ${COUNTD_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="7747:7782" ph="SELECT round... ${COUNTD_TABLE}" />
+                <marker date="1523901989000" expanded="true" signature="14299:14319" ph="..." />
+                <marker date="1523901989000" expanded="true" signature="21466:21486" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="group.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/group.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2178">
+              <caret line="242" column="0" lean-forward="true" selection-start-line="242" selection-start-column="0" selection-end-line="242" selection-end-column="0" />
+              <folding>
+                <element signature="e#11138#11172#0#HTML" expanded="true" />
+                <element signature="e#11214#11254#0#HTML" expanded="true" />
+                <element signature="e#11298#11341#0#HTML" expanded="true" />
+                <element signature="e#11364#11536#0#HTML" expanded="true" />
+                <element signature="e#11623#11690#0#HTML" expanded="true" />
+                <element signature="e#11806#11831#0#HTML" expanded="true" />
+                <element signature="e#11863#11906#0#HTML" expanded="true" />
+                <element signature="e#11923#11968#0#HTML" expanded="true" />
+                <element signature="e#12260#12303#0#HTML" expanded="true" />
+                <element signature="e#12320#12372#0#HTML" expanded="true" />
+                <element signature="e#12708#12733#0#HTML" expanded="true" />
+                <element signature="e#12767#12809#0#HTML" expanded="true" />
+                <element signature="e#12845#12881#0#HTML" expanded="true" />
+                <element signature="e#12934#12977#0#HTML" expanded="true" />
+                <element signature="e#12994#13039#0#HTML" expanded="true" />
+                <element signature="e#13925#13950#0#HTML" expanded="true" />
+                <element signature="e#13984#14026#0#HTML" expanded="true" />
+                <element signature="e#14063#14099#0#HTML" expanded="true" />
+                <element signature="e#14152#14195#0#HTML" expanded="true" />
+                <element signature="e#14212#14257#0#HTML" expanded="true" />
+                <marker date="1522677966000" expanded="true" signature="4063:4083" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="groupvalue.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/groupvalue.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="33" column="38" lean-forward="false" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+              <folding>
+                <marker date="1522316607000" expanded="true" signature="2472:2513" ph="SELECT ID FR... wp_gp" />
+                <marker date="1522316607000" expanded="true" signature="2472:2518" ph="SELECT FROM wp_gp" />
+                <marker date="1522316607000" expanded="true" signature="2558:2620" ph="SELECT group... wp_gp_member" />
+                <marker date="1522316607000" expanded="true" signature="2732:2790" ph="SELECT group... wp_gp" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myinfer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myinfer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1056">
+              <caret line="484" column="19" lean-forward="true" selection-start-line="484" selection-start-column="19" selection-end-line="484" selection-end-column="19" />
+              <folding>
+                <element signature="n#mygetinterest#0;n#!!top" expanded="false" />
+                <element signature="n#mygood#0;n#!!top" expanded="false" />
+                <element signature="n#mygoodornot#0;n#!!top" expanded="false" />
+                <element signature="n#mydesire#0;n#!!top" expanded="false" />
+                <element signature="n#mydesireornot#0;n#!!top" expanded="false" />
+                <element signature="n#mylevel#0;n#!!top" expanded="false" />
+                <element signature="n#mygroup#0;n#!!top" expanded="false" />
+                <element signature="n#myquestionsum#0;n#!!top" expanded="false" />
+                <element signature="n#myviewsum#0;n#!!top" expanded="false" />
+                <element signature="n#searchsum#0;n#!!top" expanded="false" />
+                <element signature="n#myfavorite#0;n#!!top" expanded="false" />
+                <element signature="n#myinterest#0;n#!!top" expanded="false" />
+                <element signature="n#mygetchoice#0;n#!!top" expanded="false" />
+                <element signature="n#mygetzan#0;n#!!top" expanded="false" />
+                <element signature="n#myanswersum#0;n#!!top" expanded="false" />
+                <element signature="n#mypublish#0;n#!!top" expanded="false" />
+                <element signature="n#mypostcomment#0;n#!!top" expanded="false" />
+                <element signature="n#mypostview#0;n#!!top" expanded="false" />
+                <element signature="n#mypostfavorite#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myuserhistory.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myuserhistory.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2891">
+              <caret line="362" column="42" lean-forward="false" selection-start-line="362" selection-start-column="42" selection-end-line="362" selection-end-column="42" />
+              <folding>
+                <element signature="n#myhistory#0;n#!!top" expanded="false" />
+                <element signature="n#mysearch#0;n#!!top" expanded="false" />
+                <element signature="n#myaskclass#0;n#!!top" expanded="false" />
+                <element signature="n#mysearchclass#0;n#!!top" expanded="false" />
+                <element signature="n#myfavoriteclass#0;n#!!top" expanded="false" />
+                <element signature="n#projectclass#0;n#!!top" expanded="false" />
+                <marker date="1523900456000" expanded="true" signature="305:360" ph="SELECT ID FR... ${$wpdb-&gt;users}" />
+                <marker date="1523900456000" expanded="true" signature="399:468" ph="SELECT actio... wp_user_history" />
+                <marker date="1523900456000" expanded="true" signature="806:872" ph="SELECT class... new_wiki" />
+                <marker date="1523900456000" expanded="true" signature="1576:1631" ph="SELECT ID FR... ${$wpdb-&gt;users}" />
+                <marker date="1523900456000" expanded="true" signature="1671:1730" ph="SELECT COUNT... ${SS_TABLE}" />
+                <marker date="1523900456000" expanded="true" signature="1796:1849" ph="SELECT id FR... ${SS_TABLE}" />
+                <marker date="1523900456000" expanded="true" signature="2243:2313" ph="SELECT repea... ${SS_TABLE}" />
+                <marker date="1523900456000" expanded="true" signature="2422:2488" ph="SELECT keywo... ${SS_TABLE}" />
+                <marker date="1523900456000" expanded="true" signature="2765:2820" ph="SELECT ID FR... ${$wpdb-&gt;users}" />
+                <marker date="1523900456000" expanded="true" signature="2855:2966" ph="SELECT `ID` wp_posts" />
+                <marker date="1523900456000" expanded="true" signature="3308:3370" ph="SELECT post_... wp_posts" />
+                <marker date="1523900456000" expanded="true" signature="6851:6906" ph="SELECT ID FR... ${$wpdb-&gt;users}" />
+                <marker date="1523900456000" expanded="true" signature="6944:7003" ph="SELECT id FR... wp_search_statistics" />
+                <marker date="1523900456000" expanded="true" signature="7354:7427" ph="SELECT keywo... wp_search_statistics" />
+                <marker date="1523900456000" expanded="true" signature="10910:10965" ph="SELECT ID FR... ${$wpdb-&gt;users}" />
+                <marker date="1523900456000" expanded="true" signature="11005:11072" ph="SELECT favor... wp_favorite" />
+                <marker date="1523900456000" expanded="true" signature="11443:11514" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="14993:15048" ph="SELECT ID FR... ${$wpdb-&gt;users}" />
+                <marker date="1523900456000" expanded="true" signature="15085:15166" ph="SELECT ID FR... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="15517:15587" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="19056:19111" ph="SELECT ID FR... ${$wpdb-&gt;users}" />
+                <marker date="1523900456000" expanded="true" signature="19151:19219" ph="SELECT user_... ${$wpdb-&gt;users}" />
+                <marker date="1523900456000" expanded="true" signature="19419:19519" ph="SELECT actio... wp_user_history" />
+                <marker date="1523900456000" expanded="true" signature="21317:21387" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="21494:21564" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="21674:21744" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="21855:21925" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="22036:22106" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="22215:22285" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="22680:22733" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="22680:22750" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="22881:22934" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="22881:22951" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="23085:23138" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="23085:23155" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="23290:23343" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="23290:23360" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="23495:23548" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="23495:23565" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="23698:23751" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+                <marker date="1523900456000" expanded="true" signature="23698:23768" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="copyright_plugin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/copyright_plugin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+              <folding>
+                <marker date="1522312884000" expanded="true" signature="1602:2300" ph="CREATE TABLE... IF" />
+                <marker date="1522312884000" expanded="true" signature="2714:3413" ph="CREATE TABLE... IF" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/copyright_plugin.php" />
+        <option value="$PROJECT_DIR$/groupvalue.php" />
+        <option value="$PROJECT_DIR$/group.php" />
+        <option value="$PROJECT_DIR$/myinfer.php" />
+        <option value="$PROJECT_DIR$/myuserhistory.php" />
+        <option value="$PROJECT_DIR$/myanalyseview.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="571" />
+    <option name="y" value="23" />
+    <option name="width" value="832" />
+    <option name="height" value="816" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="copyright_plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copyright_plugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95ea377d-1f11-41ad-b0b0-473389ae6cd5" name="Default" comment="" />
+      <created>1521428064280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521428064280</updated>
+      <workItem from="1521428065457" duration="119552000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="119552000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="571" y="23" width="832" height="816" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07932692" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/myanalyseview.php</url>
+          <line>59</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/myinfer.php</url>
+          <line>633</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/group.php</url>
+          <line>45</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/group.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copyright_plugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <marker date="1522312884000" expanded="true" signature="1602:2300" ph="CREATE TABLE... IF" />
+            <marker date="1522312884000" expanded="true" signature="2714:3413" ph="CREATE TABLE... IF" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/groupvalue.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="33" column="38" lean-forward="false" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+          <folding>
+            <marker date="1522316607000" expanded="true" signature="2472:2513" ph="SELECT ID FR... wp_gp" />
+            <marker date="1522316607000" expanded="true" signature="2472:2518" ph="SELECT FROM wp_gp" />
+            <marker date="1522316607000" expanded="true" signature="2558:2620" ph="SELECT group... wp_gp_member" />
+            <marker date="1522316607000" expanded="true" signature="2732:2790" ph="SELECT group... wp_gp" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2178">
+          <caret line="242" column="0" lean-forward="true" selection-start-line="242" selection-start-column="0" selection-end-line="242" selection-end-column="0" />
+          <folding>
+            <element signature="e#11138#11172#0#HTML" expanded="true" />
+            <element signature="e#11214#11254#0#HTML" expanded="true" />
+            <element signature="e#11298#11341#0#HTML" expanded="true" />
+            <element signature="e#11364#11536#0#HTML" expanded="true" />
+            <element signature="e#11623#11690#0#HTML" expanded="true" />
+            <element signature="e#11806#11831#0#HTML" expanded="true" />
+            <element signature="e#11863#11906#0#HTML" expanded="true" />
+            <element signature="e#11923#11968#0#HTML" expanded="true" />
+            <element signature="e#12260#12303#0#HTML" expanded="true" />
+            <element signature="e#12320#12372#0#HTML" expanded="true" />
+            <element signature="e#12708#12733#0#HTML" expanded="true" />
+            <element signature="e#12767#12809#0#HTML" expanded="true" />
+            <element signature="e#12845#12881#0#HTML" expanded="true" />
+            <element signature="e#12934#12977#0#HTML" expanded="true" />
+            <element signature="e#12994#13039#0#HTML" expanded="true" />
+            <element signature="e#13925#13950#0#HTML" expanded="true" />
+            <element signature="e#13984#14026#0#HTML" expanded="true" />
+            <element signature="e#14063#14099#0#HTML" expanded="true" />
+            <element signature="e#14152#14195#0#HTML" expanded="true" />
+            <element signature="e#14212#14257#0#HTML" expanded="true" />
+            <marker date="1522677966000" expanded="true" signature="4063:4083" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myinfer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="484" column="19" lean-forward="true" selection-start-line="484" selection-start-column="19" selection-end-line="484" selection-end-column="19" />
+          <folding>
+            <element signature="n#mygetinterest#0;n#!!top" expanded="false" />
+            <element signature="n#mygood#0;n#!!top" expanded="false" />
+            <element signature="n#mygoodornot#0;n#!!top" expanded="false" />
+            <element signature="n#mydesire#0;n#!!top" expanded="false" />
+            <element signature="n#mydesireornot#0;n#!!top" expanded="false" />
+            <element signature="n#mylevel#0;n#!!top" expanded="false" />
+            <element signature="n#mygroup#0;n#!!top" expanded="false" />
+            <element signature="n#myquestionsum#0;n#!!top" expanded="false" />
+            <element signature="n#myviewsum#0;n#!!top" expanded="false" />
+            <element signature="n#searchsum#0;n#!!top" expanded="false" />
+            <element signature="n#myfavorite#0;n#!!top" expanded="false" />
+            <element signature="n#myinterest#0;n#!!top" expanded="false" />
+            <element signature="n#mygetchoice#0;n#!!top" expanded="false" />
+            <element signature="n#mygetzan#0;n#!!top" expanded="false" />
+            <element signature="n#myanswersum#0;n#!!top" expanded="false" />
+            <element signature="n#mypublish#0;n#!!top" expanded="false" />
+            <element signature="n#mypostcomment#0;n#!!top" expanded="false" />
+            <element signature="n#mypostview#0;n#!!top" expanded="false" />
+            <element signature="n#mypostfavorite#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myuserhistory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2891">
+          <caret line="362" column="42" lean-forward="false" selection-start-line="362" selection-start-column="42" selection-end-line="362" selection-end-column="42" />
+          <folding>
+            <element signature="n#myhistory#0;n#!!top" expanded="false" />
+            <element signature="n#mysearch#0;n#!!top" expanded="false" />
+            <element signature="n#myaskclass#0;n#!!top" expanded="false" />
+            <element signature="n#mysearchclass#0;n#!!top" expanded="false" />
+            <element signature="n#myfavoriteclass#0;n#!!top" expanded="false" />
+            <element signature="n#projectclass#0;n#!!top" expanded="false" />
+            <marker date="1523900456000" expanded="true" signature="305:360" ph="SELECT ID FR... ${$wpdb-&gt;users}" />
+            <marker date="1523900456000" expanded="true" signature="399:468" ph="SELECT actio... wp_user_history" />
+            <marker date="1523900456000" expanded="true" signature="806:872" ph="SELECT class... new_wiki" />
+            <marker date="1523900456000" expanded="true" signature="1576:1631" ph="SELECT ID FR... ${$wpdb-&gt;users}" />
+            <marker date="1523900456000" expanded="true" signature="1671:1730" ph="SELECT COUNT... ${SS_TABLE}" />
+            <marker date="1523900456000" expanded="true" signature="1796:1849" ph="SELECT id FR... ${SS_TABLE}" />
+            <marker date="1523900456000" expanded="true" signature="2243:2313" ph="SELECT repea... ${SS_TABLE}" />
+            <marker date="1523900456000" expanded="true" signature="2422:2488" ph="SELECT keywo... ${SS_TABLE}" />
+            <marker date="1523900456000" expanded="true" signature="2765:2820" ph="SELECT ID FR... ${$wpdb-&gt;users}" />
+            <marker date="1523900456000" expanded="true" signature="2855:2966" ph="SELECT `ID` wp_posts" />
+            <marker date="1523900456000" expanded="true" signature="3308:3370" ph="SELECT post_... wp_posts" />
+            <marker date="1523900456000" expanded="true" signature="6851:6906" ph="SELECT ID FR... ${$wpdb-&gt;users}" />
+            <marker date="1523900456000" expanded="true" signature="6944:7003" ph="SELECT id FR... wp_search_statistics" />
+            <marker date="1523900456000" expanded="true" signature="7354:7427" ph="SELECT keywo... wp_search_statistics" />
+            <marker date="1523900456000" expanded="true" signature="10910:10965" ph="SELECT ID FR... ${$wpdb-&gt;users}" />
+            <marker date="1523900456000" expanded="true" signature="11005:11072" ph="SELECT favor... wp_favorite" />
+            <marker date="1523900456000" expanded="true" signature="11443:11514" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="14993:15048" ph="SELECT ID FR... ${$wpdb-&gt;users}" />
+            <marker date="1523900456000" expanded="true" signature="15085:15166" ph="SELECT ID FR... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="15517:15587" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="19056:19111" ph="SELECT ID FR... ${$wpdb-&gt;users}" />
+            <marker date="1523900456000" expanded="true" signature="19151:19219" ph="SELECT user_... ${$wpdb-&gt;users}" />
+            <marker date="1523900456000" expanded="true" signature="19419:19519" ph="SELECT actio... wp_user_history" />
+            <marker date="1523900456000" expanded="true" signature="21317:21387" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="21494:21564" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="21674:21744" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="21855:21925" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="22036:22106" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="22215:22285" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="22680:22733" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="22680:22750" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="22881:22934" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="22881:22951" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="23085:23138" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="23085:23155" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="23290:23343" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="23290:23360" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="23495:23548" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="23495:23565" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="23698:23751" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+            <marker date="1523900456000" expanded="true" signature="23698:23768" ph="SELECT post_... ${$wpdb-&gt;posts}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myanalyseview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2838">
+          <caret line="194" column="51" lean-forward="false" selection-start-line="194" selection-start-column="51" selection-end-line="194" selection-end-column="51" />
+          <folding>
+            <element signature="e#32804#32840#0#HTML" expanded="true" />
+            <element signature="e#32886#32926#0#HTML" expanded="true" />
+            <element signature="e#33148#33190#0#HTML" expanded="true" />
+            <element signature="e#33213#33385#0#HTML" expanded="true" />
+            <element signature="e#33472#33539#0#HTML" expanded="true" />
+            <element signature="e#33716#33777#0#HTML" expanded="true" />
+            <element signature="e#33798#33850#0#HTML" expanded="true" />
+            <element signature="e#34585#34610#0#HTML" expanded="true" />
+            <element signature="e#34642#34685#0#HTML" expanded="true" />
+            <element signature="e#34702#34747#0#HTML" expanded="true" />
+            <element signature="e#35453#35496#0#HTML" expanded="true" />
+            <element signature="e#36300#36342#0#HTML" expanded="true" />
+            <element signature="e#36381#36417#0#HTML" expanded="true" />
+            <element signature="e#36478#36520#0#HTML" expanded="true" />
+            <element signature="e#36560#36596#0#HTML" expanded="true" />
+            <element signature="e#36699#36741#0#HTML" expanded="true" />
+            <element signature="e#36779#36815#0#HTML" expanded="true" />
+            <element signature="e#36872#36914#0#HTML" expanded="true" />
+            <element signature="e#36952#36988#0#HTML" expanded="true" />
+            <element signature="e#37055#37080#0#HTML" expanded="true" />
+            <element signature="e#37112#37154#0#HTML" expanded="true" />
+            <element signature="e#37171#37216#0#HTML" expanded="true" />
+            <element signature="e#37422#37464#0#HTML" expanded="true" />
+            <element signature="e#37500#37536#0#HTML" expanded="true" />
+            <element signature="e#37616#37659#0#HTML" expanded="true" />
+            <element signature="e#40286#40346#0#HTML" expanded="true" />
+            <element signature="e#40382#40418#0#HTML" expanded="true" />
+            <element signature="e#40473#40498#0#HTML" expanded="true" />
+            <element signature="e#40530#40573#0#HTML" expanded="true" />
+            <element signature="e#40590#40634#0#HTML" expanded="true" />
+            <element signature="e#42159#42201#0#HTML" expanded="true" />
+            <element signature="e#42235#42271#0#HTML" expanded="true" />
+            <element signature="e#42320#42362#0#HTML" expanded="true" />
+            <element signature="e#42396#42432#0#HTML" expanded="true" />
+            <element signature="e#42496#42556#0#HTML" expanded="true" />
+            <element signature="e#42734#42771#0#HTML" expanded="true" />
+            <marker date="1523901989000" expanded="true" signature="5421:5462" ph="SELECT round... ${COUNT_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="5526:5572" ph="SELECT round... ${COUNT_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="5629:5668" ph="SELECT round... ${COUNT_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="5729:5772" ph="SELECT round... ${COUNT_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="5831:5872" ph="SELECT round... ${COUNT_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="5933:5976" ph="SELECT round... ${COUNT_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="6034:6074" ph="SELECT round... ${COUNT_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="6131:6170" ph="SELECT round... ${COUNT_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="6226:6264" ph="SELECT round... ${COUNT_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="6323:6364" ph="SELECT round... ${COUNT_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="6427:6472" ph="SELECT round... ${COUNT_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="6525:6560" ph="SELECT round... ${COUNT_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="6621:6662" ph="SELECT round... ${COUNTD_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="6728:6774" ph="SELECT round... ${COUNTD_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="6833:6872" ph="SELECT round... ${COUNTD_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="6935:6978" ph="SELECT round... ${COUNTD_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="7039:7080" ph="SELECT round... ${COUNTD_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="7143:7186" ph="SELECT round... ${COUNTD_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="7246:7286" ph="SELECT round... ${COUNTD_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="7345:7384" ph="SELECT round... ${COUNTD_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="7442:7480" ph="SELECT round... ${COUNTD_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="7541:7582" ph="SELECT round... ${COUNTD_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="7647:7692" ph="SELECT round... ${COUNTD_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="7747:7782" ph="SELECT round... ${COUNTD_TABLE}" />
+            <marker date="1523901989000" expanded="true" signature="14299:14319" ph="..." />
+            <marker date="1523901989000" expanded="true" signature="21466:21486" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
